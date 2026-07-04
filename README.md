@@ -12,16 +12,16 @@ Specter is a full-screen TUI (terminal user interface) that organizes a growing 
 
 ```
 ┌────────────────────────────┐
-│ Specter v0.1                │
+│ Specter v0.1               │
 ├────────────────────────────┤
-│ > Recon                     │
-│   Web                       │
-│   Crypto                    │
-│   Utilities                 │
+│ > Recon                    │
+│   Web                      │
+│   Crypto                   │
+│   Utilities                │
 ├────────────────────────────┤
-│ ↑↓ Navigate                 │
-│ Enter Select                │
-│ q Quit                      │
+│ ↑↓ Navigate                │
+│ Enter Select               │
+│ q Quit                     │
 └────────────────────────────┘
 ```
 
